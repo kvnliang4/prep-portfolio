@@ -8,6 +8,7 @@ body {
   background-image: url(assets/motherboard-wallpaper.jpg);
   background-size: cover;
   background-attachment: fixed;
+  background-position: center;
 }
 
 .text-align-center {
